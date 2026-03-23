@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Nikhil Dixit
+# 💫 Hi 👋, I'm Shivansh Dubey 
 **💻 CSE Student | Learning DSA & DevOps | Exploring Cloud & Backend Development**
 Email Me 👉 ✉️ **dixitn793@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** ⚡ SIH Project – Smart Renewable Energy Monitor (ESP32 + Firebase + Web Dashboard)
