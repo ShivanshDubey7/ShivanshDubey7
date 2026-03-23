@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Shivansh Dubey 
 **💻 CSE Student | Learning DSA & DevOps | Exploring Cloud & Backend Development**
-Email Me 👉 ✉️ **dixitn793@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ ** sd6200788@gmail.com **For Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** ⚡ SIH Project – Smart Renewable Energy Monitor (ESP32 + Firebase + Web Dashboard)
 - 🌱 **I’m currently learning:** DSA 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** dixitn793@gmail.com
+- 📫 **How to reach me:** sd6200788@gmail.com 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShivanshDubey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivansh_dubey_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivanshDubey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sd6200788@gmail.com)
